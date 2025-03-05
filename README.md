@@ -1,10 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-<<<<<<< HEAD
 # my name is mohamed ali
 # my name is mohamed ali
 
-=======
->>>>>>> parent of 045e841 (update readme file)
 
 ## Getting Started
 
