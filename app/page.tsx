@@ -98,6 +98,8 @@ export default function Frame() {
                   <div className="text-sm font-[var(--www-mattmannucci-me-geist-regular-font-family)] leading-5 whitespace-nowrap flex items-center justify-center h-full">
                     {tab}
                   </div>
+                  <p>ddddd</p>
+
                 </div>
               ))}
             </div>
